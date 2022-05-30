@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T11:42:14 IST" name="Default suite" finished-at="2022-05-30T11:42:34 IST" duration-ms="20049">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T11:42:14 IST" name="Default test" finished-at="2022-05-30T11:42:34 IST" duration-ms="20049">
+      <class name="pom.facebook.testcase.TC_Facebook">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:14 IST" name="beforeSuite" finished-at="2022-05-30T11:42:14 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:14 IST" name="beforeTest" finished-at="2022-05-30T11:42:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:14 IST" name="beforeClass" finished-at="2022-05-30T11:42:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:15 IST" name="beforeMethod" finished-at="2022-05-30T11:42:20 IST" duration-ms="4714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="faceboSignup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:20 IST" name="faceboSignup" data-provider="fetchData" finished-at="2022-05-30T11:42:34 IST" duration-ms="13969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9677085001]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Feb]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceboSignup -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:34 IST" name="AfterMethod" finished-at="2022-05-30T11:42:34 IST" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:34 IST" name="afterClass" finished-at="2022-05-30T11:42:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:34 IST" name="afterTest" finished-at="2022-05-30T11:42:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:pom.facebook.testcase.TC_Facebook@7db12bb6]" started-at="2022-05-30T11:42:34 IST" name="afterSuite" finished-at="2022-05-30T11:42:35 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- pom.facebook.testcase.TC_Facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
